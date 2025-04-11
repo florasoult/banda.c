@@ -1,7 +1,4 @@
-#fondo {
-    background-image: url("img/fondo-h.jpg");
-    background-size: 100% auto;
-}
+
 
 .bandacr {
     width: 100%;
@@ -14,17 +11,6 @@ h1 {
     font-size: 18pt;
 }
 
-.botonera {
-    width: 480px;
-    height: 420px;
-    background-color: #eafdc8;
-}
-
-.botonera p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 10pt;
-}
-
 h2 {
     width: 200px;
     height: 30px;
@@ -32,14 +18,7 @@ h2 {
     font-size: 18pt;
 }
 
-.botonera li {
-    width: 100px;
-    height: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 10pt;
-}
-
-.somosr {
+.ecoperris {
     width: 310px;
     height: 100%;
 }
@@ -51,10 +30,6 @@ h3 {
     font-size: 30pt;
 }
 
-.somosr p {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 15pt;
-}
 
 .miren {
     width: 100%;
