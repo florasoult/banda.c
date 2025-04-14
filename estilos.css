@@ -1,38 +1,146 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geist:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geist&display=swap');
 
-.bandacr {
-    width: 100%;
-    height: 80px;
-    background-color: blanchedalmond;
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+#bandacr {
+    width: 1350px;
+    height: 650px;
+    background-color: rgb(195, 255, 145);
+
+}
+
+#bandacr {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.secciones {
+    width: 900px;
+    height: 350px;
+    font-family: Kodchasan;
+    font-size: 10pt;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.q {
+    width: 170px;
+    height: 50px;
+}
+
+.t {
+    width: 170px;
+    height: 50px;
+}
+
+.e {
+    width: 170px;
+    height: 50px;
 }
 
 h1 {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18pt;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 40pt;
+    width: 600px;
+    height: 160px;
+    margin-left: 80px;
 }
 
-h2 {
-    width: 200px;
-    height: 30px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 18pt;
+main {
+    width: 100%;
+    height: 650px;
+    background-color: rgb(181, 255, 212);
 }
 
-.ecoperris {
-    width: 310px;
-    height: 100%;
+.a {
+    width: 350px;
+    height: 300px;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 13pt;
+    margin-top: 150px;
+    margin-left: 100px;
 }
+
+.b {
+    width: 300px;
+    height: 350px;
+    margin-right: 80px;
+    margin-top: 30px;
+    background-color: rgb(134, 114, 32);
+}
+
+.hacen {
+    width: 1200px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+
+
 
 h3 {
     width: 100px;
     height: 18px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
     font-size: 30pt;
 }
 
+
+.romu {
+    width: 700px;
+    height: 200px;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.remo {
+    width: 700px;
+    height: 200px;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;    
+}
+
+.roco {
+    width: 700px;
+    height: 200px;
+    font-family: "Geist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
 
 .miren {
     width: 100%;
     height: 100px;
     background-color: darkkhaki;
 }
+
